@@ -1,0 +1,102 @@
+                                                                         50  Most Used Linux Command by Prabhat Pandey
+
+    "1": {"command": "ls", "description": "list the files and directories in the current directory", "example": "ls"},
+
+    "2": {"command": "cd", "description": "change the current directory", "example": "cd dir_name"},
+
+    "3": {"command": "mkdir", "description": "create a new directory", "example": "mkdir new_dir"},
+
+    "4": {"command": "rmdir", "description": "remove a directory", "example": "rmdir dir_name"},
+
+    "5": {"command": "pwd", "description": "print the current working directory", "example": "pwd"},
+
+    "6": {"command": "cp", "description": "copy files or directories", "example": "cp source_file destination_directory"},
+
+    "7": {"command": "mv", "description": "move or rename files or directories", "example": "mv source_file destination_file"},
+
+    "8": {"command": "rm", "description": "remove files or directories", "example": "rm file_name"},
+
+    "9": {"command": "touch", "description": "create a new empty file or update the timestamp of an existing file", "example": "touch new_file.txt"},
+
+    "10": {"command": "cat", "description": "concatenate and display files", "example": "cat file.txt"},
+
+    "11": {"command": "man", "description": "manual for a command", "example": "man command_name"},
+
+    "12": {"command": "htop", "description": "an interactive process viewer and system monitor", "example": "htop"},
+
+    "13": {"command": "chmod", "description": "change the permissions of a file or directory", "example": "chmod 755 file.txt"},
+
+    "14": {"command": "chown", "description": "change the owner of a file or directory", "example": "chown new_owner file.txt"},
+
+    "15": {"command": "tar", "description": "create or extract compressed archive files", "example": "tar -czvf archive.tar.gz directory"},
+
+    "16": {"command": "gzip", "description": "compress files", "example": "gzip file.txt"},
+
+    "17": {"command": "gunzip", "description": "decompress compressed files", "example": "gunzip file.txt.gz"},
+
+    "18": {"command": "ssh", "description": "connect to a remote server securely", "example": "ssh user@remote_host"},
+
+    "19": {"command": "scp", "description": "securely copy files between systems", "example": "scp file.txt user@remote_host:/remote_directory"},
+
+    "20": {"command": "ping", "description": "test network connectivity", "example": "ping host_or_ip"},
+
+    "21": {"command": "ifconfig", "description": "display or configure network interfaces", "example": "ifconfig"},
+
+    "22": {"command": "netstat", "description": "display network connection information", "example": "netstat"},
+
+    "23": {"command": "route", "description": "view or configure network routing tables", "example": "route -n"},
+
+    "24": {"command": "top", "description": "display system resource usage and processes", "example": "top"},
+
+    "25": {"command": "ps", "description": "display information about running processes", "example": "ps aux"},
+
+    "26": {"command": "kill", "description": "terminate a process", "example": "kill process_id"},
+
+    "27": {"command": "systemctl", "description": "control system services and settings", "example": "systemctl start service_name"},
+
+    "28": {"command": "service", "description": "control system services", "example": "service service_name start"},
+
+    "29": {"command": "useradd", "description": "add a new user to the system", "example": "useradd username"},
+
+    "30": {"command": "passwd", "description": "change the password for a user", "example": "passwd username"},
+
+    "31": {"command": "userdel", "description": "delete a user from the system", "example": "userdel username"},
+
+    "32": {"command": "su", "description": "switch user to become another user", "example": "su username"},
+
+    "33": {"command": "sudo", "description": "execute a command as another user or with elevated privileges", "example": "sudo command"},
+
+    "34": {"command": "uptime", "description": "display system uptime and load average", "example": "uptime"},
+
+    "35": {"command": "df", "description": "display disk space usage", "example": "df -h"},
+
+    "36": {"command": "du", "description": "display disk usage by file or directory", "example": "du -sh directory"},
+
+    "37": {"command": "mount", "description": "mount a file system", "example": "sudo mount /dev/sdb1 /mnt/usb"},
+
+    "38": {"command": "umount", "description": "unmount a file system", "example": "sudo umount /mnt/usb"},
+
+    "39": {"command": "date", "description": "display or set the system date and time", "example": "date"},
+
+    "40": {"command": "whoami", "description": "display the current user name", "example": "whoami"},
+
+    "41": {"command": "which", "description": "locate a program or command in the system path", "example": "which command"},
+
+    "42": {"command": "finger", "description": "displays all the information about user", "example": "finger username"},
+
+    "43": {"command": "uname", "description": "display system information", "example": "uname -a"},
+
+    "44": {"command": "history", "description": "display a list of previously executed commands", "example": "history"},
+
+    "45": {"command": "echo", "description": "display text or variables to the console", "example": "echo 'Hello, World!'"},
+
+    "46": {"command": "tee", "description": "redirect output to both a file and the console", "example": "ls | tee file.txt"},
+
+    "47": {"command": "locate", "description": "locate any file on the system", "example": "locate file_name"},
+
+    "48": {"command": "sort", "description": "sort lines of text in a file or input", "example": "sort file.txt"},
+
+    "49": {"command": "uniq", "description": "remove duplicate lines from a file or input", "example": "uniq file.txt"},
+
+    "50": {"command": "head/tail", "description": "display the first/last few lines of a file or input", "example": "head file.txt / tail file.txt"}
+}
